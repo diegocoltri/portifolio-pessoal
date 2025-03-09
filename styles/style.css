@@ -236,5 +236,23 @@ body{
     .apresentacao__conteudo {
         width: auto;
     }
+
+    .sobremim {
+        flex-direction: column-reverse;
+        padding: 5%;
+    }
+
+    .sobremim__conteudo {
+        width: auto;
+    }
+
+    .curriculo {
+        flex-direction: column-reverse;
+        padding: 5%;
+    }
+
+    .curriculo__apresentacao {
+        width: auto;
+    }
     
 }
